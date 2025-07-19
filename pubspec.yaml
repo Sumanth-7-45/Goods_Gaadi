@@ -1,0 +1,56 @@
+name: self
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  smooth_page_indicator: ^1.1.0
+
+
+
+  firebase_core: ^3.6.0
+  firebase_storage: ^12.3.3
+  cloud_firestore: ^5.4.4
+  firebase_auth:  ^5.6.0
+  fluttertoast: ^8.2.12
+  http: ^0.13.5
+
+  image_picker: ^1.1.2
+
+  intl: ^0.20.2
+  logger: ^2.5.0
+  url_launcher: ^6.3.1
+  iconsax: ^0.0.8
+  cupertino_icons: ^1.0.8
+  get: ^4.6.5
+  get_storage_pro: ^0.1.8
+  flutter_bloc: ^8.1.1
+  hydrated_bloc: ^9.0.0
+
+  path_provider: ^2.1.2
+  equatable: ^2.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0 # Updated to a valid latest version
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets1/logo.png
+
+  fonts:
+    - family: FontMain
+      fonts:
+        - asset: assets1/fonts/font.ttf

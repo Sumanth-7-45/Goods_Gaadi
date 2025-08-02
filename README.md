@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # self
 
 A new Flutter project.
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Goods_Gaadi
 >>>>>>> 6541334e2bcc6d69b5f04dd58719322f6e84feb2
+=======
+# Goods_Gaadi
+>>>>>>> 3b4bd441cc7eb191cbfc5272335315d92483b805

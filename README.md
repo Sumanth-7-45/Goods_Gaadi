@@ -1,24 +1,40 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# self
+# 🚗 Goods-Gaadi
 
-A new Flutter project.
+**Goods-Gaadi** is a Flutter application designed to help users buy and sell second-hand goods vehicles. The app supports uploading vehicle details, images, and managing listings through Firebase and Cloudinary.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 Browse second-hand goods vehicles
+- 📤 Upload multiple vehicle images
+- 📝 Add vehicle details like brand, model, description, price, insurance info, and contact number
+- 🔐 Firebase Authentication
+- ☁️ Image storage via Cloudinary
+- 🗂️ Firestore integration for listing management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Goods_Gaadi
->>>>>>> 6541334e2bcc6d69b5f04dd58719322f6e84feb2
-=======
-# Goods_Gaadi
->>>>>>> 3b4bd441cc7eb191cbfc5272335315d92483b805
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Firebase (Auth, Firestore)**
+- **Cloudinary** (Image storage)
+- **Provider / Riverpod** (for state management, optional)
+
+---
+
+## 📷 Screenshots
+
+> Add screenshots of your app UI here  
+> Example: Home page, Upload screen, Details view, etc.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/Sumanth-7-45/Goods-Gaadi.git
+cd Goods-Gaadi
